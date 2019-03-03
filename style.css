@@ -147,7 +147,7 @@ body {
 .people {
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 
+    padding: 0 7%; 
 }
 
 .person {
